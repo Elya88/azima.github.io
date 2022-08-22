@@ -1,4 +1,4 @@
-# Name of project
+# Zazu Kids Shopping Website
 
 > A longer description
 
